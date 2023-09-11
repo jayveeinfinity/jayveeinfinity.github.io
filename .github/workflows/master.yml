@@ -17,4 +17,3 @@ jobs:
         server: www.jayveeinfinity.com
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /jayveeinfinity.com/
